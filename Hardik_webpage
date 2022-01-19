@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title> Hardik Agrawal</title>
+    <body>
+          
+        <h1>Welcome to Hardik's Page</h1>
+        <p><b>Email-</b>iamhardikagrawal@gmail.com,<b> Phone Number :</b>9302498396,<b>     Git URL :</b><button>Pegasus2001</button></p>
+        
+        <br>
+        <br>
+        <hr>
+        <p> <b><h1>Education</h1>  </b>
+            <ul>
+            1)Class 10 =96.4%(ICSE)
+            <br>
+            2)Class 12=93.8%(CBSE)
+            <br>
+            
+            3)BITSAT 2020-326
+            <br>
+            
+            4)JEE Main -8871(2021)
+            <br>
+            
+            5)Currently a B.Tech 1st year undergraduate at <i> IIIT ALLAHABAD</i></ul>
+        <br>
+        <br>
+        <hr>
+        <b>
+             
+
+    <hr>
+
+    <h2>Skills</h2>
+
+    <table border="l" width="220">
+
+        <thead>
+
+            <tr>
+
+                <th rowspan="  3">Language </th>
+
+                <th rowspan="3"> Skill</th>
+
+            </tr>
+
+
+        </thead>
+
+        <thead>
+
+            <tr>
+
+                <td>HTML</td>
+
+                <td>
+
+     &#9733  &#9733  &#9733  &#9733  &#9733  
+
+                   
+
+
+                </td>
+
+            </tr>
+
+            <tr>
+
+                <td>CSS</td>
+
+                <td>
+
+     &#9733   &#9733    &#9733    &#9733   &#9733  
+
+
+                </td>
+
+            </tr>
+
+            <tr>
+
+                <td>Javascript</td>
+
+                <td>
+
+      &#9733    &#9733  &#9733 &#9733  &#9733
+
+                   
+
+                </td>
+
+            </tr>
+
+        </thead>
+
+    </table>
+
+    <hr>
+
+    <h2>Contact Me!</h2>
+
+    <div>
+
+        <label for="name"><b>Your Name:</b></label>
+
+        <input type="text" id="name" value="Enter Your Name">
+
+    </div>
+
+    <p>
+          <div>
+
+        <label for="email"><b>Email:</b></label>
+
+        <input type="email" id="email" value="Enter Your Email id">
+
+    </div>
+
+   
+
+    <p>
+
+    <div>
+
+        <label for="message"><b>Your Message:</b></label>
+
+
+        <input type="text" id="message" value="Enter Your Message">
+
+    </div>
+
+    
+    <button>Submit Here</button>
+
+
+            
+        </b>
+        
+    </body>
+    </head></html>
